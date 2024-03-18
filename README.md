@@ -1,1 +1,1 @@
-# sql_digital_department
+# sql_digital_department in machine learning course
